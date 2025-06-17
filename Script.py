@@ -56,7 +56,7 @@ except Exception as e:
 print(f"\nTotal articles found: {len(all_news_data)}")
 
 config = {
-    "apiKey": "AIzaSyDCRHB53I5_3aI4ZEyCBgANgXVTq3v4LqE",
+    "apiKey": "AIzaSyDCRHB53I5_3aI4ZEyCBgANgXVTq3#####",
     "authDomain": "news-app-e1742.firebaseapp.com",
     "databaseURL": "https://news-app-e1742-default-rtdb.firebaseio.com",
     "storageBucket": "news-app-e1742.firebasestorage.app"
