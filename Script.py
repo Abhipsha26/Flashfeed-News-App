@@ -2,7 +2,7 @@ import requests
 from firebase import firebase
 
 # GNews API endpoint and key
-GNEWS_API_KEY = "3e9a2ad4b3431efa2160de3216076846"  # Get it from https://gnews.io/
+GNEWS_API_KEY = "3e9a2ad4b3431efa2160de32160#####"  # Get it from https://gnews.io/
 GNEWS_URL = f"https://gnews.io/api/v4/top-headlines?country=in&lang=en&apikey={GNEWS_API_KEY}"
 
 if GNEWS_API_KEY == "YOUR_GNEWS_API_KEY":
