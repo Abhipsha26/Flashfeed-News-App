@@ -19,5 +19,8 @@ CONCLUSION
 
 FlashFeed combines current news aggregation with text-to-speech technology (TTS) to provide a comprehensive platform for user visual impairment, multitaskers and audio content. Gnews displays visually and voice representation based on API and internal TTS technology. Adds an automatic dark mode when the ambient light sensor reaches a certain level and the possibility of sharing messages, convenience and commitment is added. With support from UN SDG 4 for high quality education and SDG 10 to reduce inequality, we plan to quickly arrange digital inclusiveness for flash feeds, as well as majority feeds, user connections, and offline playback.
 ![WhatsApp Image 2025-06-19 at 10 34 33_278c7cf5](https://github.com/user-attachments/assets/51cf6d73-ef64-4c43-855c-c42cbfea0501)
+![WhatsApp Image 2025-06-19 at 10 34 39_bcb6db9c](https://github.com/user-attachments/assets/2fffb575-2833-4e33-a668-c0109d2f23f0)
+![WhatsApp Image 2025-06-19 at 10 34 52_23f63db1](https://github.com/user-attachments/assets/5b56cbc7-678e-4d4b-b38c-ad57c27dd0a6)
+
 
 
